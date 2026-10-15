@@ -1,0 +1,6 @@
+{
+  "name": "الاستوديو الذكي",
+  "description": "منصة تفاعلية وتطبيق متكامل باللغة العربية لبناء وإدارة الأفكار والمشاريع والمحتوى.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
